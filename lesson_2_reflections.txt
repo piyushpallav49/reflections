@@ -1,0 +1,4 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Stagging area is more like a buffer zone between commit and repository. It gives you option of first getting satisfied with the logical change you want to make and then updating the logical as commit in repository.
+How can you use the staging area to make sure you have one commit per logical change?
+	All the changes will be stored in the staging area, and as soon as I feel that I have made a logical change I can commit the change.
