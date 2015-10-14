@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It pointed out the difference between the line codes
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By having history of a file I can analyse the revision and upgradations that have been done 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros are firstly, the commits are under our control and we decide when to commit or not and whether the change made is relevant enough to commit. Also, we will have clarity over the purpose of each commit.
+    Cons are we might lose our work due some technical failure which may lead to wastage of the effort if we have been working on that particular commit for a long time. Also since its manual, so might forget to commit at right time and thus leading to multiple logical changes in a single commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git as of what I think for now is explicitly designed with coders in mind whereas google docs is more end user oriented. So, for a coder, every commit has an importance for him and the link between the different files whereas, for a google docs user, each file is generally seperate and unrelated.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By using giff log we can easily find the summary of changes(commits). giff diff is helpful is helpful as very can clearly visualise the change made and I personally found it quite elegant. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Now that I know that I can revert back in my codes and also find the bugs more efficiently, I can pretty much do anything without worrying of things getting deleted or the code getting wrong 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Making codes for Machine Learning applications
