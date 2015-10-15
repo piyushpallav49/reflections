@@ -9,4 +9,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	Diagram helps in visualization of flow of commits, thus making branches easier to understand.
-	
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	By merging two branch together we are in a way blending the two sets of code to a single set of code. We represent it in the diagram the way we do as it makes life easy for lets say any new coder who didn't have prior knowledge of the project. He/She will get hold of the work done instantly.
