@@ -13,3 +13,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	Without Git, I would have to manually keep track of the bug and for fixing bugs I would have to debug the entire code.
 	GitHub makes debugging, colaboration easier. The only thing with using Git is that we have learn first how to use it, but I'm seeing its worth.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	If I want to try and test out things first then I would first branch out. This way I could back to master if I did not like the branch work. If I'm quite confident with the approach then I can directly update the master. This would save time.
